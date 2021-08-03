@@ -1,8 +1,7 @@
 ## Hi there :wave:
 
 
-I’m currently a student
-
+I’m currently a student<br>
 I like to play games in my free time
 
 <div>
