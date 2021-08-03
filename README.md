@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 
 I’m currently a student
@@ -17,4 +17,4 @@ I’m currently a student
 <a href="https://www.twitch.tv/santoszex" target="_blank"><img scr="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
   </a>
 
-###
+##
