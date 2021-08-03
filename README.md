@@ -1,8 +1,8 @@
 ## Hi there :wave:
 
 
-I’m currently a student<br>
-I like to play games in my free time
+I’m currently a student📚<br>
+I like to play games in my free time🕹️
 
 <div>
     <a href="https://www.youtube.com/channel/UCPJ4HiVW10cn1-baQIFw81g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
